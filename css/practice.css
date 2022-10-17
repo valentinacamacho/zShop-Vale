@@ -1,9 +1,15 @@
 #container {
     display: flex;
-    width: 1000px;
+    width: 1030px;
 }
 
 #cssmenu ul {
     margin-top: -70px;
-    margin-right: 310px;
+    margin-right: 320px;
+}
+
+.item img{
+    margin-top: -20px;
+    height: 400px;
+	width: 1500px;
 }
