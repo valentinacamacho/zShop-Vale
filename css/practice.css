@@ -1,3 +1,5 @@
+
+/*Header*/
 #container {
     display: flex;
     width: 1030px;
@@ -8,12 +10,41 @@
     margin-right: 320px;
 }
 
+
+
+/*Body*/
 .item img{
     margin-top: -20px;
     height: 400px;
 	width: 1500px;
 }
 
+/*Cuadricula*/
+
+.row{
+    display:flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+.col-2-5{
+    width: 40%;
+}
+
+.col-3-5{
+    width: 60%;
+}
+
+.col-1-2{
+    width: 50%;
+}
+
+/*La ultima img*/
+
+
+
+/*Footer*/
 
 footer{
     width: 1030px;
@@ -42,8 +73,6 @@ footer .col-1-3.col-footer-3{
     max-width: 400px;
 }
 
-footer .col-1-3.col-footer-3 .p{ 
-    margin-top: 120px;
-    
-}
+
+
 
