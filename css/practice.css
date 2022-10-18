@@ -5,9 +5,11 @@
     width: 1030px;
 }
 
-#cssmenu ul {
-    margin-top: -70px;
-    margin-right: 320px;
+#cssmenu{
+    display: flex;
+    left: 350px;
+    margin-top:20px;
+    margin-bottom: 20px;
 }
 
 
