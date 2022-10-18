@@ -13,3 +13,14 @@
     height: 400px;
 	width: 1500px;
 }
+
+
+footer{
+    width: 1030px;
+}
+
+footer .row{
+    display: flex;
+}
+
+
